@@ -1,0 +1,3 @@
+print("HELLO WORLD")
+print("MY NAME IS VEDANT")
+print("I AM LEARNING PYTHON")

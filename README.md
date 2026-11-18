@@ -1,6 +1,6 @@
 # PYTHON - LEARNING
 Hi, I'm Vedant.
-I'm a first-year BCA student from vadodara learning Python and programming
+I'm a first-year BCA student from Vadodara learning Python and programming
 # TOPICS COVERED
 * variable
 * loops
@@ -13,4 +13,4 @@ I'm a first-year BCA student from vadodara learning Python and programming
 * Largest Number Finder
 * Positive Negative Checker
 # GOAL
-To become a python developer and build useful software projects.
+To become a Python Developer and build useful software projects.
